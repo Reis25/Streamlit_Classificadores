@@ -1,10 +1,10 @@
 # Streamlit Classificadores
 
-Repositório para dar suporte ao artigo escrito na plataforma do Medium a respeito da escolha de classificadores e com um visualizador de dados.
+Repositório para dar suporte ao artigo escrito na plataforma do Medium a respeito da escolha de classificadores com um visualizador de dados.
 
-Para exectar o projeto: 
+Para executar o projeto: 
 
-Um forma alternativa para executar o projeto, vamos instalar o pip, auxiliador de instalação, e criaro virtual-enviroment:
+Vamos instalar o pip, auxiliador de instalação, e criar um virtual-enviroment:
 
 ~~~
 sudo apt-get install python3-pip 
