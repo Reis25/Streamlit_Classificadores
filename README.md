@@ -2,11 +2,7 @@
 
 Repositório para dar suporte ao artigo escrito na plataforma do Medium a respeito da escolha de classificadores e com um visualizador de dados.
 
-Abra o terminal e didigite: 
-
-~~~
-git clone https://github.com/Reis25/Streamlit_Classificadores.git
-~~~ 
+Para exectar o projeto: 
 
 Um forma alternativa para executar o projeto, vamos instalar o pip, auxiliador de instalação, e criaro virtual-enviroment:
 
@@ -33,7 +29,13 @@ Para Instalar o streamilit, siga:
 pip install streamlit
 ~~~
 
-Baixe o arquivo requirements.txt e execte no terminal:
+Baixando o repositório:
+
+~~~
+git clone https://github.com/Reis25/Streamlit_Classificadores.git
+~~~ 
+
+instalando os  requisitos execte no terminal, na mesma pasta do arquivo requirements.txt: 
 
 ~~~Shell
 pip install -r requirements.txt
@@ -44,3 +46,5 @@ Executando o arquivo principal do arquivo:
 ~~~
 streamlit run main.py
 ~~~  
+
+Acesse o Browser e a execução estará inicializada. :)
