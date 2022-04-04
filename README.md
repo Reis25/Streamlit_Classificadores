@@ -48,3 +48,8 @@ streamlit run main.py
 ~~~  
 
 Acesse o Browser e a execução estará inicializada. :)
+
+Para encerrar a sessão, vá no teminal onde a aplicação está rodando e execute: 
+~~~ 
+ctrl-D
+~~~ 
